@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/languages/top/20react-portfolio"  />
     <img src="https://img.shields.io/github/issues/BrennonSullivan/20react-portfolio" />
     <img src="https://img.shields.io/github/last-commit/BrennonSullivan/20react-portfolio" >
-    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
+    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/BrennonSullivan?style=social" target="_blank" /></a>
 </p>
   
 <p align="center">
