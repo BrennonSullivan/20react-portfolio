@@ -16,7 +16,7 @@
     "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
     },
     {
-    "id": 4,
+    "id": 3,
     "name": "weather dashboard",
     "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/weatherdashboard.PNG",
     "github": "https://github.com/BrennonSullivan/m6weather",
@@ -24,7 +24,7 @@
     "topics": "javascript, jQuery, html, bootstrap, moment, API"
     },
     {
-    "id": 5,
+    "id": 4,
     "name": "readit!",
     "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/readit.png",
     "github": "https://github.com/BrennonSullivan/projet1",
@@ -32,11 +32,19 @@
     "topics": "HTML, CSS, API"
       },
     {
-    "id": 6,
+    "id": 5,
     "name": "work day schedular",
     "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/workdayscheduler.PNG",
     "github": "https://github.com/BrennonSullivan/work-day-scheduler",
     "deploy": "https://BrennonSullivan.github.io/work-day-scheduler/",
     "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
-    }
+    },
+    {
+      "id": 5,
+      "name": "Note Taker",
+      "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/notetaker.jpg",
+      "github": "https://github.com/BrennonSullivan/m11notetaker",
+      "deploy": "https://m11notetaker.herokuapp.com/",
+      "topics": "HTML, Javascript, CSS, jQuery"
+      }
 ]
