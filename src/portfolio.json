@@ -38,13 +38,5 @@
     "github": "https://github.com/BrennonSullivan/work-day-scheduler",
     "deploy": "https://BrennonSullivan.github.io/work-day-scheduler/",
     "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
-    },
-    {
-    "id": 9,
-    "name": "remote social",
-    "image": "https://github.com/BrennonSullivan/remote-social/raw/main/remotesocial.PNG",
-    "github": "https://github.com/BrennonSullivan/m18social",
-    "deploy": "",
-    "topics": "MERN, React, GraphQL, Node.js, Express.js, MongoDB, Mongoose"
     }
 ]
