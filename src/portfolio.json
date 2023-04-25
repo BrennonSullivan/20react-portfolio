@@ -26,7 +26,7 @@
     {
     "id": 5,
     "name": "readit!",
-    "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/readit.PNG",
+    "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/readit.png",
     "github": "https://github.com/BrennonSullivan/projet1",
     "deploy": "https://brennonsullivan.github.io/projet1/",
     "topics": "HTML, CSS, API"
