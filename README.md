@@ -1,10 +1,10 @@
 <h1 align="center"> React Development Portfolio 👋</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/jpd-react-portfolio" />
-    <img src="https://img.shields.io/github/languages/top/jpd-react-portfolio"  />
-    <img src="https://img.shields.io/github/issues/jpd61/jpd-react-portfolio" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/jpd-react-portfolio" >
+    <img src="https://img.shields.io/github/repo-size/BrennonSullivan/20react-portfolio" />
+    <img src="https://img.shields.io/github/languages/top/20react-portfolio"  />
+    <img src="https://img.shields.io/github/issues/BrennonSullivan/20react-portfolio" />
+    <img src="https://img.shields.io/github/last-commit/BrennonSullivan/20react-portfolio" >
     <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/jpd61?style=social" target="_blank" /></a>
     <a href="https://twitter.com/jpdewoody">
         <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
@@ -20,11 +20,11 @@
 
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 
-**[Deployed Application](https://jpd61.github.io/jpd-react-portfolio)**
+**[Deployed Application](https://bre.github.io/jpd-react-portfolio)**
   
 💻 Below is a screenshot of the application:
   
-![jpd-react-portfolio](https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/Capture.PNG)
+![jpd-react-portfolio](https://github.com/BrennonSullivan/20react-portfolio/raw/master/src/assets/images/Capture.PNG)
 
 ## User Story
 
@@ -121,7 +121,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 No current testing
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: [Brennon Sullivan](https://github.com/BrennonSullivan)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](mailto:brennsullivan2@gmail.com) , [GitHub](https://github.com/BrennonSullivan)<br />
