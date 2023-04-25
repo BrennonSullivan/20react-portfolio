@@ -21,7 +21,7 @@
   
 💻 Below is a screenshot of the application:
   
-![react-portfolio](https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/capture.png)
+![react-portfolio](https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/Capture.PNG)
 
 ## User Story
 
