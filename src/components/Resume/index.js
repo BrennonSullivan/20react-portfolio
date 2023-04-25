@@ -4,17 +4,17 @@ function Resume() {
 
 return(
 <section class="mb-5">
-    <h1 className="resume">resume: Brennon Sullivan</h1>
+    <h1 className="resume">resume: josephDeWoody</h1>
         <hr></hr>
         <div class="row justify-content-center" id="resume">
             <div class="mt-5 pl-5 pr-5">
-                Business executive and full stack developer with experience the MERN and MEAN stacks. Experienced in commercial website and software development. Brennon is an experienced leader with a demonstrated history of working in oil and gas mineral rights and royalty acquisition and management. Throughout his time in the industry he has acquired and managed oil and gas interests in over 20,000 wells throughout 30 States. Brennon has experience in all aspects of oil and gas exploration, production, development and management. 
+                Business executive and full stack developer with experience the MERN and MEAN stacks. Experienced in commercial website and software development. Joseph is an experienced leader with a demonstrated history of working in oil and gas mineral rights and royalty acquisition and management. Throughout his time in the industry he has acquired and managed oil and gas interests in over 20,000 wells throughout 30 States. Joseph has experience in all aspects of oil and gas exploration, production, development and management. 
 
                 <p class="mt-5">
-                <a href="https://www.linkedin.com/in/brennonsullivan/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Brennon Sullivan"/></a>
+                <a href="https://www.linkedin.com/in/josephdewoody/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="DeWoody LinkedIn"/></a>
                 </p>
                 <p>
-                Download my full <a href="https://github.com/BrennonSullivan/20react-portfolio/raw/master/src/Brennon Sullivan Resume 2023.pdf" class="link">resume</a>
+                Download my full <a href="https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/Resume-Joseph-DeWoody.pdf" class="link">resume</a>
                 <br></br>
                 </p>
             </div>

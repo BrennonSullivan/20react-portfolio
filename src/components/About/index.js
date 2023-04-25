@@ -8,7 +8,7 @@ function About() {
       
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-            <img class="mb-5" src="https://github.com/brennonsullivan/20react-portfolio/raw/master/src/assets/images/Brennon-Sullivan.jpg" alt="Brennon Sullivan"/>
+            <img class="mb-5" src="https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/joseph-dewoody.jpg" alt="Joseph DeWoody"/>
         <p>
             I'm baby enamel pin subway tile 90's green juice iPhone you probably haven't heard of them skateboard plaid chillwave pickled kickstarter mixtape. Fanny pack four dollar toast celiac vape. Poutine jianbing pour-over, pickled next level yr gentrify helvetica gluten-free occupy tattooed 3 wolf moon schlitz locavore wolf. Food truck vice pok pok forage vinyl master cleanse pug chartreuse asymmetrical. IPhone four dollar toast four loko +1, before they sold out pok pok yr cray post-ironic pitchfork tacos schlitz aesthetic literally.
         </p>

@@ -2,9 +2,10 @@
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/BrennonSullivan/20react-portfolio" />
+    <img src="https://img.shields.io/github/languages/top/20react-portfolio"  />
     <img src="https://img.shields.io/github/issues/BrennonSullivan/20react-portfolio" />
     <img src="https://img.shields.io/github/last-commit/BrennonSullivan/20react-portfolio" >
-    <a href="https://github.com/brennonsullivan"><img src="https://img.shields.io/github/followers/BrennonSullivan?style=social" target="_blank" /></a>
+    <a href="https://github.com/jpd61"><img src="https://img.shields.io/github/followers/BrennonSullivan?style=social" target="_blank" /></a>
 </p>
   
 <p align="center">
@@ -16,7 +17,7 @@
 
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 
-**[Deployed Application](https://brennonsullivan.github.io/20react-portfolio)**
+**[Deployed Application](https://bre.github.io/jpd-react-portfolio)**
   
 💻 Below is a screenshot of the application:
   
