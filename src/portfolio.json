@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "whiskey inventory",
-    "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/whiskey-inventory.PNG",
+    "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/whiskey-inventory.png",
     "github": "https://github.com/BrennonSullivan/p2g3",
     "deploy": "https://whiskey-inventory.herokuapp.com/",
     "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
