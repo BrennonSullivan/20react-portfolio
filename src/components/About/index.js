@@ -10,20 +10,23 @@ function About() {
         <div className="col-10" id="about-section">
             <img class="mb-5" src="https://github.com/brennonsullivan/20react-portfolio/raw/main/src/assets/images/face.jpg" alt="Brennon Sullivan"/>
         <p>
-            I'm baby enamel pin subway tile 90's green juice iPhone you probably haven't heard of them skateboard plaid chillwave pickled kickstarter mixtape. Fanny pack four dollar toast celiac vape. Poutine jianbing pour-over, pickled next level yr gentrify helvetica gluten-free occupy tattooed 3 wolf moon schlitz locavore wolf. Food truck vice pok pok forage vinyl master cleanse pug chartreuse asymmetrical. IPhone four dollar toast four loko +1, before they sold out pok pok yr cray post-ironic pitchfork tacos schlitz aesthetic literally.
+        I am a recent graduate from Sam Houston State University with a passion for developing new projects, exploring diverse music, and immersing myself in new realities through video games. With a strong foundation in my field of study, I am eager to apply my knowledge and skills to contribute to innovative projects and make a meaningful impact.
         </p>
         <p>
-            Fixie meggings lomo, etsy man bun whatever vice salvia sartorial letterpress. Woke hexagon hoodie coloring book fixie. Messenger bag neutra VHS small batch crucifix taiyaki quinoa hammock mlkshk. Franzen tacos cred edison bulb, tbh four loko whatever cliche butcher forage brooklyn PBR&B messenger bag vexillologist. Blue bottle retro tattooed XOXO keytar lomo.
+        Throughout my academic journey, I have acquired a solid understanding of various programming languages and software development methodologies. I have also honed my problem-solving abilities and developed a keen eye for detail, allowing me to approach projects with a systematic and analytical mindset.
         </p>
         <p>
-            Edison bulb chambray live-edge godard hexagon. Neutra lomo cred trust fund health goth hoodie cronut raw denim selvage. Flexitarian vexillologist art party humblebrag. Cardigan health goth sartorial street art small batch iceland everyday carry neutra truffaut.
+        When it comes to developing new projects, I thrive on the creative process of transforming ideas into tangible solutions. I enjoy working collaboratively with a team, leveraging our collective strengths to deliver exceptional results. My dedication and drive motivate me to continuously learn and adapt to new technologies, ensuring that I stay at the forefront of industry advancements.
         </p>
         <p>
-            Church-key before they sold out 8-bit knausgaard forage. Woke hoodie pour-over leggings vinyl etsy fingerstache gluten-free air plant subway tile. Vexillologist master cleanse four dollar toast 90's cronut brunch tumblr fam yr franzen microdosing etsy. Copper mug scenester adaptogen, iPhone tousled freegan chicharrones lo-fi etsy keytar taxidermy.
+        Apart from my technical pursuits, I am an avid music enthusiast. Exploring diverse genres and discovering emerging artists is a source of inspiration for me. Music has the power to evoke emotions and influence creative thinking, making it an integral part of my life and work.
         </p>
         <p>
-            Cloud bread tumblr raclette stumptown kickstarter bespoke bicycle rights butcher meggings edison bulb tacos 8-bit cardigan thundercats pinterest. PBR&B hell of butcher, literally selvage austin flexitarian schlitz letterpress +1 brunch swag 90's poutine XOXO. Prism poutine sriracha farm-to-table 8-bit gochujang fam ugh literally shaman. Copper mug viral tbh, echo park banh mi semiotics synth wayfarers kinfolk beard hexagon irony readymade narwhal woke. Keytar coloring book blog street art. Man braid normcore banjo, food truck messenger bag shabby chic helvetica ethical. Vegan you probably haven't heard of them tumeric gastropub lyft vinyl next level cray hashtag keffiyeh waistcoat vaporware fingerstache glossier.
-      </p>
+        Additionally, I find solace and excitement in exploring new realities through video games. The immersive nature of gaming allows me to delve into captivating narratives, interact with unique worlds, and engage in strategic problem-solving. This hobby fuels my imagination and enables me to think outside the box, bringing fresh perspectives to my projects.
+        </p>
+        <p>
+        Overall, I am a motivated and enthusiastic individual with a deep passion for technology, music, and gaming. I am excited to embark on new challenges, contribute to innovative projects, and continue expanding my skill set as I forge a successful career in my field.
+        </p>
       <p>
             View full <a href="#/resume" class="link">resume</a>
     </p>
