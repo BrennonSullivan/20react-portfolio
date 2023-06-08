@@ -10,7 +10,7 @@ function About() {
         <div className="col-10" id="about-section">
             <img class="mb-5" src="https://github.com/brennonsullivan/20react-portfolio/raw/main/src/assets/images/face.png" alt="Brennon Sullivan"/>
         <p>
-        I am a graduate from Sam Houston State University, and I recently completed a Full stack development program at Rice University, with a passion for developing new projects, exploring diverse music, and immersing myself in new realities through video games. With a strong foundation in my field of study, I am eager to apply my knowledge and skills to contribute to innovative projects and make a meaningful impact.
+        I am a graduate from Sam Houston State University, and I recently completed a Full stack development program at Rice University.I have a passion for developing new projects, exploring diverse music, and immersing myself in new realities through video games. With a strong foundation in my field of study, I am eager to apply my knowledge and skills to contribute to innovative projects and make a meaningful impact.
         </p>
         <p>
         Throughout my academic journey, I have acquired a solid understanding of various programming languages and software development methodologies. I have also honed my problem-solving abilities and developed a keen eye for detail, allowing me to approach projects with a systematic and analytical mindset.
