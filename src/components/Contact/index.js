@@ -1,5 +1,29 @@
 import React, { useState } from 'react';
 import { validateEmail } from '../../utils/helper';
+import emailjs from 'emailjs-com';
+
+function sendEmail() {
+    emailjs.send(
+      'service_s5y745l',
+      'template_8pb3gls',
+      {
+        to_email: 'brennsullivan2@gmail.com',
+        from_name: formState.name,
+        from_email: formState.email,
+        message: formState.message
+      },
+      'pHiBioobFEegWnU_C'
+    )
+    .then(() => {
+      console.log('Email sent successfully!');
+      // You can add additional code here to handle a successful submission
+    })
+    .catch(error => {
+      console.error('Error sending email:', error);
+      // You can add additional code here to handle an error
+    });
+  }
+  
 
 function ContactForm() {
 
@@ -34,13 +58,15 @@ function ContactForm() {
 
     function handleSubmit(e) {
         e.preventDefault();
-    }
+        sendEmail();
+      }
+      
 
 return (
     <section class="justify-content-center" id="contact-section">
         <h1 data-testid='h1tag' className="contact">contact: Brennon Sullivan</h1>
         <hr></hr>
-        <form class="justify-content-center" id="contact-form">
+        <form className="justify-content-center" id="contact-form" onSubmit={handleSubmit}>
             <div>
                 <label htmlFor="name">name:</label>
                 <input class="form-control" type="text" name="name"  defaultValue={name} onBlur={handleChange}/>
