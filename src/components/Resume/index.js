@@ -14,7 +14,7 @@ return(
                 <a href="https://www.linkedin.com/in/brennonsullivan/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="DeWoody LinkedIn"/></a>
                 </p>
                 <p>
-                Download my full <a href="https://github.com/brennonsullivan/20react-portfolio/raw/main/src/assets/Brennon Sullivan Resume 2023.pdf" class="link">resume</a>
+                Download my full <a href="https://github.com/brennonsullivan/20react-portfolio/raw/main/src/assets/Resume.pdf" class="link">resume</a>
                 <br></br>
                 </p>
             </div>
