@@ -8,7 +8,11 @@ return(
         <hr></hr>
         <div class="row justify-content-center" id="resume">
             <div class="mt-5 pl-5 pr-5">
-                Business executive and full stack developer with experience the MERN and MEAN stacks. Experienced in commercial website and software development. Joseph is an experienced leader with a demonstrated history of working in oil and gas mineral rights and royalty acquisition and management. Throughout his time in the industry he has acquired and managed oil and gas interests in over 20,000 wells throughout 30 States. Joseph has experience in all aspects of oil and gas exploration, production, development and management. 
+            I am a graduate from Sam Houston State University, and I recently completed a Full stack development program at Rice University, with a passion for developing projects, exploring music, and experiencing new realities through video games. Strong foundation in programming languages and software development methodologies. Thrives on transforming ideas into tangible solutions, collaborating with teams, and staying up-to-date with industry advancements. Avid music enthusiast and gamer. Motivated and dedicated to making a meaningful impact in the field.
+
+
+
+
 
                 <p class="mt-5">
                 <a href="https://www.linkedin.com/in/brennonsullivan/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="DeWoody LinkedIn"/></a>
@@ -22,12 +26,12 @@ return(
 
         <div class="justify-content-center mt-5">
             <div id="front-back">
-                <h2>front end experience</h2>
+                <h2>Front End Experience</h2>
                 <p>HTML, CSS (Bootstrap, Foundation, Bulma), JavaScript, jQuery, React.js, Angular.js, IndexedDB</p>
             </div>
     
             <div id="front-back" class="mt-5">
-                <h2>back end experience</h2>
+                <h2>Back End Experience</h2>
                 <p>
                 Node.js, Express.js, SQL (sqlite, mySQL, postgreSQL), Sequelize, NoSQL (MongoDB, Mongoose), Python, Django, API's (third-party, RESTful, server-side), Templating (Handlebars)
                 </p>
