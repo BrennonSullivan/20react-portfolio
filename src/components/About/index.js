@@ -8,7 +8,7 @@ function About() {
       
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-            <img class="mb-5" src="https://github.com/brennonsullivan/20react-portfolio/raw/main/src/assets/images/face.jpg" alt="Brennon Sullivan"/>
+            <img class="mb-5" src="https://github.com/brennonsullivan/20react-portfolio/raw/main/src/assets/images/face.png" alt="Brennon Sullivan"/>
         <p>
         I am a recent graduate from Sam Houston State University with a passion for developing new projects, exploring diverse music, and immersing myself in new realities through video games. With a strong foundation in my field of study, I am eager to apply my knowledge and skills to contribute to innovative projects and make a meaningful impact.
         </p>
