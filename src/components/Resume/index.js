@@ -8,7 +8,7 @@ return(
         <hr></hr>
         <div class="row justify-content-center" id="resume">
             <div class="mt-5 pl-5 pr-5">
-            I am a graduate from Sam Houston State University, and I recently completed a Full stack development program at Rice University, with a passion for developing projects, exploring music, and experiencing new realities through video games. Strong foundation in programming languages and software development methodologies. Thrives on transforming ideas into tangible solutions, collaborating with teams, and staying up-to-date with industry advancements. Avid music enthusiast and gamer. Motivated and dedicated to making a meaningful impact in the field.
+            I am a graduate from Sam Houston State University, and I recently completed a Full stack development program at Rice University. I have a passion for developing projects, exploring music, and experiencing new realities through video games. Strong foundation in programming languages and software development methodologies. Thrives on transforming ideas into tangible solutions, collaborating with teams, and staying up-to-date with industry advancements. Avid music enthusiast and gamer. Motivated and dedicated to making a meaningful impact in the field.
 
 
 
