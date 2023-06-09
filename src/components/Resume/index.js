@@ -4,7 +4,7 @@ function Resume() {
 
 return(
 <section class="mb-5">
-    <h1 className="resume">resume: Brennon Sullivan</h1>
+    <h1 className="resume">Resume: Brennon Sullivan</h1>
         <hr></hr>
         <div class="row justify-content-center" id="resume">
             <div class="mt-5 pl-5 pr-5">

@@ -12,7 +12,7 @@ function Portfolio () {
     return (
         <section>
           <div className="project">
-            <h1 className="title">development portfolio: Brennon Sullivan</h1>
+            <h1 className="title">Development Portfolio: Brennon Sullivan</h1>
             <hr></hr>
           </div>
 

@@ -76,20 +76,20 @@ function ContactForm() {
   return (
     <section class="justify-content-center" id="contact-section">
       <h1 data-testid="h1tag" className="contact">
-        contact: Brennon Sullivan
+        Contact: Brennon Sullivan
       </h1>
       <hr></hr>
       <form className="justify-content-center" id="contact-form" onSubmit={handleSubmit}>
         <div>
-          <label htmlFor="name">name:</label>
+          <label htmlFor="name">Name:</label>
           <input class="form-control" type="text" name="name" defaultValue={name} onBlur={handleChange} />
         </div>
         <div>
-          <label htmlFor="email">email:</label>
+          <label htmlFor="email">Email:</label>
           <input class="form-control" type="email" name="email" defaultValue={email} onBlur={handleChange} />
         </div>
         <div>
-          <label htmlFor="message">message:</label>
+          <label htmlFor="message">Message:</label>
           <textarea class="form-control" name="message" defaultValue={message} onBlur={handleChange} rows="7" />
         </div>
         {errorMessage && (
