@@ -1,20 +1,20 @@
 [
-    {
-    "id": 1,
-    "name": "whiskey inventory",
-    "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/whiskey-inventory.png",
-    "github": "https://github.com/BrennonSullivan/p2g3",
-    "deploy": "https://whiskey-inventory.herokuapp.com/",
-    "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
-    },
-    {
-    "id": 2,
-    "name": "mvc tech blog",
-    "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/tech-blog.PNG",
-    "github": "https://github.com/BrennonSullivan/m14mvc-tech-blog",
-    "deploy": "https://hidden-falls-22101.herokuapp.com/",
-    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
-    },
+    // {
+    // "id": 1,
+    // "name": "whiskey inventory",
+    // "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/whiskey-inventory.png",
+    // "github": "https://github.com/BrennonSullivan/p2g3",
+    // "deploy": "https://whiskey-inventory.herokuapp.com/",
+    // "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt, mocha, lodash, animate-css"
+    // },
+    // {
+    // "id": 2,
+    // "name": "mvc tech blog",
+    // "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/tech-blog.PNG",
+    // "github": "https://github.com/BrennonSullivan/m14mvc-tech-blog",
+    // "deploy": "https://hidden-falls-22101.herokuapp.com/",
+    // "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    // },
     {
     "id": 3,
     "name": "weather dashboard",
@@ -31,14 +31,14 @@
     "deploy": "https://brennonsullivan.github.io/projet1/",
     "topics": "HTML, CSS, API"
       },
-    {
-    "id": 5,
-    "name": "work day schedular",
-    "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/workdayscheduler.PNG",
-    "github": "https://github.com/BrennonSullivan/work-day-scheduler",
-    "deploy": "https://BrennonSullivan.github.io/work-day-scheduler/",
-    "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
-    },
+    // {
+    // "id": 5,
+    // "name": "work day schedular",
+    // "image": "https://github.com/BrennonSullivan/20react-portfolio/raw/main/src/assets/images/workdayscheduler.PNG",
+    // "github": "https://github.com/BrennonSullivan/work-day-scheduler",
+    // "deploy": "https://BrennonSullivan.github.io/work-day-scheduler/",
+    // "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    // },
     {
       "id": 6,
       "name": "Note Taker",
