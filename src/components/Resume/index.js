@@ -8,12 +8,7 @@ return(
         <hr></hr>
         <div class="row justify-content-center" id="resume">
             <div class="mt-5 pl-5 pr-5">
-            I am a graduate from Sam Houston State University, and I recently completed a Full stack development program at Rice University. I have a passion for developing projects, exploring music, and experiencing new realities through video games. Strong foundation in programming languages and software development methodologies. Thrives on transforming ideas into tangible solutions, collaborating with teams, and staying up-to-date with industry advancements. Avid music enthusiast and gamer. Motivated and dedicated to making a meaningful impact in the field.
-
-
-
-
-
+            I am a graduate from Sam Houston State University. Recently, I completed a Full Stack Development program at Rice University. I have a passion for developing projects, exploring music, and experiencing new realities through video games. I have a strong foundation in programming languages and software development methodologies. I thrive on transforming ideas into tangible solutions and enjoy collaborating with teams. I make it a priority to stay up-to-date with industry advancements. I am an avid music enthusiast and gamer. I am motivated and dedicated to making a meaningful impact in the field.
                 <p class="mt-5">
                 <a href="https://www.linkedin.com/in/brennonsullivan/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="DeWoody LinkedIn"/></a>
                 </p>
