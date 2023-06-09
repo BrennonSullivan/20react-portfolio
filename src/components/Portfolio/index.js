@@ -17,9 +17,18 @@ function Portfolio () {
           </div>
 
           <Wrapper id="card-data">
-            {portfolio.map((project) => (
-              <ProjectCards key={project.id} image={project.image} name={project.name} github={project.github} deploy={project.deploy} topics={project.topics}/>
-            ))}
+          {portfolio.map((project, index) => (
+          <ProjectCards
+            key={index + 1}
+            id={index + 1} // Auto-incremented id
+            image={project.image}
+            name={project.name}
+            github={project.github}
+            deploy={project.deploy}
+            topics={project.topics}
+          />
+        ))}
+
           </Wrapper>
         </section>
     
