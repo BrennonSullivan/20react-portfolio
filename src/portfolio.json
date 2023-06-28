@@ -31,7 +31,7 @@
         "name": "Forensic Anslysis",
         "image": "https://github.com/BrennonSullivan/forensic-analysis-project/blob/main/fig1.png?raw=true",
         "github": "https://github.com/BrennonSullivan/forensic-analysis-project",
-        "deploy": "https://culinary-companion.herokuapp.com/",
+        "deploy": "https://github.com/BrennonSullivan/forensic-analysis-project/blob/main/forensic_analysis.pdf",
         "topics": "LaTeX, Java, x86, Disassebly, IDA Pro"
         }
 ]
