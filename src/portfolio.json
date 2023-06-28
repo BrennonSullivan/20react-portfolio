@@ -26,5 +26,12 @@
         "github": "https://github.com/Jshigoodies/Culinary-Companion",
         "deploy": "https://culinary-companion.herokuapp.com/",
         "topics": "HTML, Javascript, CSS, React, MongoDB, JWT, Apollo "
+        },
+        {
+        "name": "Forensic Anslysis",
+        "image": "https://github.com/BrennonSullivan/forensic-analysis-project/blob/main/fig1.png?raw=true",
+        "github": "https://github.com/BrennonSullivan/forensic-analysis-project",
+        "deploy": "https://culinary-companion.herokuapp.com/",
+        "topics": "LaTeX, Java, x86, Disassebly, IDA Pro"
         }
 ]
